@@ -1,1 +1,67 @@
+# 🧠 Data Science Real-World Projects in Python
+
+This repository contains four real-world **Data Science mini projects** implemented in Python, each focused on different domains — **Machine Learning, NLP, AI, and Time Series Forecasting**.  
+Each project is organized into its own branch.
+
+---
+
+## 📂 Projects Overview
+
+### 🚀 [Airline Tickets Prediction](https://github.com/kledihaxhimali/Data-Science-Projects/tree/Airline-Tickets-Prediction)
+**Domain:** Regression / Machine Learning  
+**Goal:** Predict airline ticket prices based on various flight-related features.  
+**Workflow:**
+- Data collection and cleaning  
+- Feature engineering and preprocessing  
+- Model training and evaluation  
+- Visualization and insights  
+
+---
+
+### 🎬 [Movie Recommendation System](https://github.com/kledihaxhimali/Data-Science-Projects/tree/Movie-Recommendation)
+**Domain:** NLP / Recommendation Systems  
+**Goal:** Recommend similar movies based on content similarity.  
+**Workflow:**
+- Data loading and text processing  
+- Feature extraction using vectorization  
+- Similarity computation and ranking  
+- Generating recommendations  
+
+---
+
+### 🔐 [Password Strength Prediction](https://github.com/kledihaxhimali/Data-Science-Projects/tree/Password-Prediction)
+**Domain:** Classification / NLP  
+**Goal:** Predict the strength level of passwords (weak, medium, or strong).  
+**Workflow:**
+- Data preparation and feature extraction  
+- Model selection and training  
+- Performance evaluation using metrics  
+- Visualization and reporting  
+
+---
+
+### 💹 [Stock Prices Forecasting](https://github.com/kledihaxhimali/Data-Science-Projects/tree/Stock-Prices)
+**Domain:** Time Series Forecasting  
+**Goal:** Forecast stock price movements using statistical and deep learning models.  
+**Workflow:**
+- Data collection and preprocessing  
+- Exploratory time series analysis  
+- Model building (ARIMA, LSTM, Prophet)  
+- Forecast visualization and performance comparison  
+
+---
+
+## ⚙️ Tech Stack
+- **Language:** Python  
+- **Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn, XGBoost, TensorFlow/Keras, statsmodels, Prophet  
+- **Tools:** Jupyter Notebook, Git, VS Code  
+
+---
+
+## 🧩 How to Run a Project
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/kledihaxhimali/Data-Science-Projects.git
+   cd Data-Science-Projects
 
