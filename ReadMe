@@ -1,1 +1,21 @@
+🔐 Password Strength Classification
+A machine learning project that classifies passwords into categories such as weak, medium, and strong.
+The workflow focuses on transforming raw text passwords into meaningful numerical features and evaluating different classification models.
 
+📌 Features
+
+Text preprocessing and cleaning
+
+Character-level feature extraction
+
+Password vectorization techniques
+
+Training and comparison of multiple ML models
+
+Performance evaluation and metric analysis
+
+🛠 Tools Used
+Python · Pandas · NumPy · Scikit-learn · Jupyter Notebook
+
+📁 Main File
+Password Strength.ipynb — full preprocessing pipeline, model training, and evaluation
