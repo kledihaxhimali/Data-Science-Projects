@@ -1,47 +1,20 @@
-🧠 Data Science Real-World Projects in Python
+📊 Interactive Dashboards (Plotly)
+A collection of interactive data dashboards built with Plotly, enabling dynamic exploration and visual analysis of datasets.
+These dashboards showcase responsive charting, intuitive layout design, and user-driven analytics.
 
-This repository contains four real-world Data Science mini projects implemented in Python, each focused on different domains — Machine Learning, NLP, AI, and Time Series Forecasting.  
-Each project is organized into its own branch.
+📌 Features
 
+Fully interactive Plotly visualizations
 
-📂 Projects Overview:
+Dropdown menus, filters, and adjustable user controls
 
-🚀 Airline Tickets Prediction (https://github.com/kledihaxhimali/Data-Science-Projects/tree/Airline-Tickets-Prediction)
-Domain: Regression / Machine Learning  
-Goal: Predict airline ticket prices based on various flight-related features.  
-Workflow:
-- Data collection and cleaning  
-- Feature engineering and preprocessing  
-- Model training and evaluation  
-- Visualization and insights  
+Multiple coordinated charts within a single dashboard
 
+Clean, minimal, and analytics-focused interface
 
-🎬 Movie Recommendation System (https://github.com/kledihaxhimali/Data-Science-Projects/tree/Movie-Recommendation)
-Domain: NLP / Recommendation Systems  
-Goal: Recommend similar movies based on content similarity.  
-Workflow:
-- Data loading and text processing  
-- Feature extraction using vectorization  
-- Similarity computation and ranking  
-- Generating recommendations  
+🛠 Tools Used
+Python · Plotly · Pandas · NumPy · Jupyter Notebook
 
-
-🔐 Password Strength Prediction (https://github.com/kledihaxhimali/Data-Science-Projects/tree/Password-Prediction)
-Domain: Classification / NLP  
-Goal: Predict the strength level of passwords (weak, medium, or strong).  
-Workflow:
-- Data preparation and feature extraction  
-- Model selection and training  
-- Performance evaluation using metrics  
-- Visualization and reporting  
-
-
-💹 Stock Prices Forecasting (https://github.com/kledihaxhimali/Data-Science-Projects/tree/Stock-Prices)
-Domain: Time Series Forecasting  
-Goal: Forecast stock price movements using statistical and deep learning models.  
-Workflow:
-- Data collection and preprocessing  
-- Exploratory time series analysis  
-- Model building (ARIMA, LSTM, Prophet)  
-- Forecast visualization and performance comparison  
+📁 Main File
+Dashboards.ipynb — complete set of interactive dashboard implementations
 
