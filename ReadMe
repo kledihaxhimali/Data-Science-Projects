@@ -45,3 +45,19 @@ Workflow:
 - Model building (ARIMA, LSTM, Prophet)  
 - Forecast visualization and performance comparison  
 
+🧰 Tools & Technologies
+
+A range of tools and technologies were applied across the projects, each supporting different stages of the data science workflow.
+
+Programming & Analysis
+-Python, Jupyter Notebook
+
+Data Processing
+-Pandas, NumPy
+
+Data Visualization
+-Matplotlib, Seaborn
+-Plotly (interactive dashboards and charts)
+
+Machine Learning
+-Scikit-learn (classification, clustering, model evaluation)
